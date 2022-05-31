@@ -27,6 +27,12 @@
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/jose-manuel-sanchez-gey-de-la-corte-66253518/"
       }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "I am a music lover and enjoy playing instruments, these are the ones I am currently practicing.",
+        "fact": "* Piano\n* Drums\n* Bass\n* Guitar electric\n* Spanish guitar"
+      }
     ]
   },
   "knowledge": {
@@ -80,6 +86,40 @@
         {
           "type": "linkedin",
           "URL": "https://www.linkedin.com/in/jose-manuel-sanchez-gey-de-la-corte-66253518/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "Azure",
+          "type": "technology"
+        },
+        {
+          "name": "Git",
+          "type": "technology"
+        },
+        {
+          "name": "Kubernetes",
+          "type": "technology"
+        },
+        {
+          "name": "Terraform",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Unix",
+          "type": "technology"
+        },
+        {
+          "name": "Windows",
+          "type": "technology"
         }
       ]
     }
