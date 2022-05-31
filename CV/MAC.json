@@ -9,6 +9,7 @@
       "name": "Jose Manuel",
       "surnames": "Sanchez Gey De La Corte",
       "title": "SRE Solution Architect",
+      "description": "Soy un profesional donde mi valor está en la suma de mis Conocimientos, más mis Experiencias, pero que se multiplican con mi Actitud y mis valores, donde la transparencia, el compromiso, la responsabilidad, la humildad, el trabajo en equipo, la honestidad, el respeto, la asertividad, la escucha activa, son mis señas de identidad en todos los proyectos en donde he participado",
       "avatar": {
         "alt": "foto-chema.png",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/31/2e29394b-9c0f-428a-9f7d-52570aca4b6b_foto-chema.png"
@@ -25,6 +26,51 @@
       {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/jose-manuel-sanchez-gey-de-la-corte-66253518/"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Terraform",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ansible",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
+          "type": "technology"
+        }
       }
     ]
   },
