@@ -8,20 +8,23 @@
     "profile": {
       "name": "Jose Manuel",
       "surnames": "Sanchez Gey De La Corte",
-      "title": "",
-      "description": "",
+      "title": "SRE Solution Architect",
+      "avatar": {
+        "alt": "foto-chema.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/31/2e29394b-9c0f-428a-9f7d-52570aca4b6b_foto-chema.png"
+      },
       "location": {
         "notes": "Madrid"
       }
     },
     "relevantLinks": [
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/jose-manuel-sanchez-gey-de-la-corte-66253518/"
-      },
-      {
         "type": "github",
         "URL": "https://github.com/chemagey"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/jose-manuel-sanchez-gey-de-la-corte-66253518/"
       }
     ]
   },
