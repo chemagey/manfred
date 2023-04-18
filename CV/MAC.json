@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -15,7 +15,10 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/31/2e29394b-9c0f-428a-9f7d-52570aca4b6b_foto-chema.png"
       },
       "location": {
-        "notes": "Madrid"
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -38,19 +41,20 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "AWS",
+          "name": "Terraform",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Docker",
+          "name": "GitLab",
           "type": "technology"
         }
       },
@@ -62,19 +66,19 @@
       },
       {
         "skill": {
-          "name": "Terraform",
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "Ansible",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "GitLab",
           "type": "technology"
         }
       }
@@ -121,7 +125,12 @@
           "name": "Windows",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "DevOps & Infrastructure & SRE",
+        "Technical Recruitment"
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }
