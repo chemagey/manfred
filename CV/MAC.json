@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -11,44 +11,57 @@
       "title": "SRE Solution Architect",
       "description": "Soy un profesional donde mi valor está en la suma de mis Conocimientos, más mis Experiencias, pero que se multiplican con mi Actitud y mis valores, donde la transparencia, el compromiso, la responsabilidad, la humildad, el trabajo en equipo, la honestidad, el respeto, la asertividad, la escucha activa, son mis señas de identidad en todos los proyectos en donde he participado",
       "avatar": {
-        "alt": "foto-chema.png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/31/2e29394b-9c0f-428a-9f7d-52570aca4b6b_foto-chema.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/31/2e29394b-9c0f-428a-9f7d-52570aca4b6b_foto-chema.png",
+        "alt": "foto-chema.png"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/chemagey"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/jose-manuel-sanchez-gey-de-la-corte-66253518/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "I am a music lover and enjoy playing instruments, these are the ones I am currently practicing.",
         "fact": "* Piano\n* Drums\n* Bass\n* Guitar electric\n* Spanish guitar"
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/jose-manuel-sanchez-gey-de-la-corte-66253518/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/chemagey"
       }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish",
+        "name": "ES",
+        "fullName": "Español",
         "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Terraform",
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ansible",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
           "type": "technology"
         }
       },
@@ -66,20 +79,28 @@
       },
       {
         "skill": {
-          "name": "Docker",
+          "name": "Terraform",
           "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Capacidad de escucha",
+          "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "AWS",
-          "type": "technology"
+          "name": "Comunicación verbal",
+          "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "Ansible",
-          "type": "technology"
+          "name": "Trabajo en equipo",
+          "type": "practice"
         }
       }
     ]
@@ -88,8 +109,12 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/jose-manuel-sanchez-gey-de-la-corte-66253518/"
+          "URL": "https://www.linkedin.com/in/jose-manuel-sanchez-gey-de-la-corte-66253518/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/chemagey",
+          "type": "github"
         }
       ]
     },
@@ -132,5 +157,9 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "I want to work in a company with a motivating culture, where team unity is strengthened, where growth and feeedback are supported.",
+    "goodPractices": "AWS Well-Architected"
   }
 }
