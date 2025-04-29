@@ -156,7 +156,12 @@
         "Technical Recruitment"
       ]
     },
-    "status": "searchingActively"
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent"
+      ]
+    }
   },
   "manfredSpecificData": {
     "desiredJobDescription": "I want to work in a company with a motivating culture, where team unity is strengthened, where growth and feeedback are supported.",
